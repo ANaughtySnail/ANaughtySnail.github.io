@@ -26,10 +26,10 @@
 
 https://user-images.githubusercontent.com/56581135/184191784-4ec392ed-817e-4992-96af-7661a97edf1e.mp4
 
-![室外AR展示](https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/groud_blue_car.gif)
+![室外AR展示](gif/groud_blue_car.gif)
 
   
-![室外AR展示](https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/1628649816.png)
+![室外AR展示](gif/1628649816.png)
 
   
   
