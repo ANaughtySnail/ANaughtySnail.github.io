@@ -29,6 +29,9 @@ https://user-images.githubusercontent.com/56581135/184191784-4ec392ed-817e-4992-
 ![室外AR展示](https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/groud_blue_car.gif)
 
   
+![室外AR展示](https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/1628649816.png)
+
+  
   
 ## 科研成果
 1. 作为第一作者，发表在RAL+IROS论文《Object-Plane Co-Represented and Graph Propagation-Based Semantic Descriptor for Relocalization》      
