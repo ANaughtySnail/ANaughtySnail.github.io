@@ -1,5 +1,30 @@
 # 邓志强个人主页
 
+## 部分成果展示
+<table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img src="gif/AR_blue_car.gif" width="60%" />
+				<br/>
+				<font color="AAAAAA">001.jpg</font>
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="gif/AR_blue_car.gif" width="60%" />
+				<br/>
+				<font color="AAAAAA">002.jpg</font>
+			</center>
+		</td>
+	</tr>
+</table>
+
+<!-- ![室外AR展示](gif/groud_blue_car.gif) -->
+
+
+
+
 ## 个人信息 
 生日：1998.9   
 籍贯：四川宜宾	  
@@ -24,12 +49,6 @@
 项目名称：基于自组织云的多机器人协同建模（视觉、SLAM、C++）	       
 项目介绍：基于双目视觉的多机器人协同建图与定位，多地图拼接与融合。基于CCM-SLAM算法的地图定位与拼接；使用词袋和关键帧来实现地图重定位；使用语义拓扑图实现大视差下的地图重定位。    
 
-https://user-images.githubusercontent.com/56581135/184191784-4ec392ed-817e-4992-96af-7661a97edf1e.mp4
-
-![室外AR展示](gif/groud_blue_car.gif)
-
-  
-![室外AR展示](gif/1628649816.png)
 
   
   
