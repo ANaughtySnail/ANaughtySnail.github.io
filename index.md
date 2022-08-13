@@ -55,7 +55,7 @@
 <img src="https://gitee.com/naughtysnail/NaughtySnail.github.io/blob/master/img/paper_Introduction.png" width="500" height="300" />
 <img src="https://gitee.com/naughtysnail/NaughtySnail.github.io/blob/master/img/paper_system.png" width="500" height="300" />
 
-![论文结果展示]([gif/groud_blue_car.gif](https://gitee.com/naughtysnail/NaughtySnail.github.io/blob/master/img/there_scenes.png))
+![论文结果展示](https://gitee.com/naughtysnail/NaughtySnail.github.io/blob/master/img/there_scenes.png)
 
 
 
