@@ -5,48 +5,43 @@
 	<tr>
 		<td>
 			<center>
-				<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/AR_bule_car_org.gif" width="500" height="300" />
+				<img src="gif/AR_bule_car_org.gif" width="500" height="300" />
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/AR_blue_car.gif" width="500" height="300" />
-			</center>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<center>
-				<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/AR_soldier_org.gif" width="500" height="300" />
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/AR_soldier2.gif" width="500" height="300" />
+				<img src="gif/AR_blue_car.gif" width="500" height="300" />
 			</center>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<center>
-				<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/AR_engine2.gif" width="500" height="300" />
+				<img src="gif/AR_soldier_org.gif" width="500" height="300" />
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/AR_engine2.gif" width="500" height="300" />
+				<img src="gif/AR_soldier2.gif" width="500" height="300" />
 			</center>
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<center>
-				<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/AR_kitti.gif" width="500" height="300" />
+				<img src="gif/AR_engine2.gif" width="500" height="300" />
+			</center>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<center>
+				<img src="gif/AR_kitti.gif" width="500" height="300" />
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/gif/AR_kitii_semantic_map3.gif" width="500" height="300" />
+				<img src="gif/AR_kitii_semantic_map3.gif" width="500" height="300" />
 			</center>
 		</td>
 	</tr>
