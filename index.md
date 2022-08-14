@@ -1,21 +1,13 @@
 # 邓志强个人主页
 
 ## 部分成果展示
-![论文结果展示](gif/AR_bule_car_org.gif,#pic_center =x300)![论文结果展示](gif/AR_bule_car_org.gif,#pic_center =x300)![论文结果展示](gif/AR_bule_car_org.gif,#pic_center =x300)
+
 
 <table rules="none" align="center">
 	<tr>
-		<td>
-			<center>
-				<img src="gif/AR_bule_car_org.gif" width="500" height="300" />
-			</center>
-		</td>
-		<td>
-			<center>
-				<img src="gif/AR_blue_car.gif" width="500" height="300" />
-			</center>
-		</td>
-	</tr>
+          <td> AR演示原视频  </td>
+          <td> AR演示添加虚拟对象(图中蓝车)	 </td>
+        </tr>
 	<tr>
 		<td>
 			<center>
@@ -28,6 +20,10 @@
 			</center>
 		</td>
 	</tr>
+	<tr>
+          <td> AR演示原视频  </td>
+          <td> AR演示添加虚拟对象(图中坦克和虚拟士兵)	 </td>
+        </tr>
 	<tr>
 		<td>
 			<center>
@@ -41,12 +37,21 @@
 		</td>
 	</tr>
 	<tr>
+          <td> AR辅助维系虚拟动画展示  </td>
+          <td> </td>
+        </tr>
+	<tr>
 		<td>
 			<center>
 				<img src="gif/AR_engine2.gif" width="500" height="300" />
 			</center>
 		</td>
-	</tr>
+		<td>
+		</td>
+	</tr><tr>
+          <td> kitti数据集上实例分割  </td>
+          <td> kitti数据集上进行物体建模和语义重定位 </td>
+        </tr>
 	<tr>
 		<td>
 			<center>
@@ -61,10 +66,14 @@
 	</tr>
 </table>
 
-<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/img/paper_Introduction.png" width="500" height="300" />
-<img src="https://github.com/ANaughtySnail/ANaughtySnail.github.io/blob/master/img/paper_system.png" width="500" height="300" />
-
-![论文结果展示](https://gitee.com/naughtysnail/NaughtySnail.github.io/blob/master/img/there_scenes.png)
+* 论文《Object-Plane Co-Represented and Graph Propagation-Based Semantic Descriptor for Relocalization》展示
+在大视差下使用语义拓扑图进行重定位的一个示例：
+<img src="img/paper_Introduction.png" width="500" height="300" />
+系统框架：
+<img src="img/paper_system.png" width="500" height="300" />
+大视差下的实验效果对比：
+<img src="img/there_scenes.png" width="500" height="300" />
+<!-- ![论文结果展示](https://gitee.com/naughtysnail/NaughtySnail.github.io/blob/master/img/there_scenes.png) -->
 
 
 
