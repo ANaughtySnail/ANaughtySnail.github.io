@@ -1,7 +1,21 @@
 # 邓志强个人主页
 
 ## 部分成果展示
+![论文结果展示](gif/AR_bule_car_org.gif,#pic_center =x300)![论文结果展示](gif/AR_bule_car_org.gif,#pic_center =x300)![论文结果展示](gif/AR_bule_car_org.gif,#pic_center =x300)
+
 <table rules="none" align="center">
+	<tr>
+		<td>
+			<center>
+				<img src="gif/AR_bule_car_org.gif" width="500" height="300" />
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src="gif/AR_blue_car.gif" width="500" height="300" />
+			</center>
+		</td>
+	</tr>
 	<tr>
 		<td>
 			<center>
