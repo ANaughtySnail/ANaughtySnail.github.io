@@ -66,12 +66,15 @@
 	</tr>
 </table>
 
-* 论文《Object-Plane Co-Represented and Graph Propagation-Based Semantic Descriptor for Relocalization》展示
-在大视差下使用语义拓扑图进行重定位的一个示例：
-<img src="img/paper_Introduction.png" width="500" height="300" />
-系统框架：
-<img src="img/paper_system.png" width="500" height="300" />
-大视差下的实验效果对比：
+
+### 论文《Object-Plane Co-Represented and Graph Propagation-Based Semantic Descriptor for Relocalization》展示
+* 在大视差下使用语义拓扑图进行重定位的一个示例：   
+<img src="img/paper_Introduction.png" width="500" height="300" />   
+
+* 系统框架：   
+<img src="img/paper_system.png" width="500" height="300" />   
+
+* 大视差下的实验效果对比：   
 <img src="img/there_scenes.png" width="500" height="300" />
 <!-- ![论文结果展示](https://gitee.com/naughtysnail/NaughtySnail.github.io/blob/master/img/there_scenes.png) -->
 
