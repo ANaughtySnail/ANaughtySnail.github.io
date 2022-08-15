@@ -55,12 +55,12 @@
 	<tr>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_kitii_mark.gif" height="200" />
+				<img src="gif/gif_mark/AR_kitii_mark.gif" height="180" />
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_kitii_semantic_map3_mark.gif" height="150" />
+				<img src="gif/gif_mark/AR_kitii_semantic_map3_mark.gif" height="200" />
 			</center>
 		</td>
 	</tr>
