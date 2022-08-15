@@ -11,7 +11,7 @@
 	<tr>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_bule_car_org_mark.gif" height="200" />
+				<img src="gif/gif_mark/AR_blue_car_org_mark.gif" height="200" />
 			</center>
 		</td>
 		<td>
@@ -55,7 +55,7 @@
 	<tr>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_kitti_mark.gif" height="200" />
+				<img src="gif/gif_mark/AR_kitii_mark.gif" height="200" />
 			</center>
 		</td>
 		<td>
