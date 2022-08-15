@@ -11,12 +11,12 @@
 	<tr>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_bule_car_org_mark.gif" width="500" height="300" />
+				<img src="gif/gif_mark/AR_bule_car_org_mark.gif" height="200" />
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_blue_car2_mark.gif" width="500" height="300" />
+				<img src="gif/gif_mark/AR_blue_car2_mark.gif" height="200" />
 			</center>
 		</td>
 	</tr>
@@ -27,12 +27,12 @@
 	<tr>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_soldier_org_mark.gif" width="500" height="300" />
+				<img src="gif/gif_mark/AR_soldier_org_mark.gif" height="200" />
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_soldier2_mark.gif" width="500" height="300" />
+				<img src="gif/gif_mark/AR_soldier2_mark.gif" height="200" />
 			</center>
 		</td>
 	</tr>
@@ -43,7 +43,7 @@
 	<tr>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_engine2_mark.gif" width="500" height="300" />
+				<img src="gif/gif_mark/AR_engine2_mark.gif" height="200" />
 			</center>
 		</td>
 		<td>
@@ -55,12 +55,12 @@
 	<tr>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_kitti_mark.gif" width="500" height="300" />
+				<img src="gif/gif_mark/AR_kitti_mark.gif" height="200" />
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="gif/gif_mark/AR_kitii_semantic_map3_mark.gif" width="500" height="300" />
+				<img src="gif/gif_mark/AR_kitii_semantic_map3_mark.gif" height="150" />
 			</center>
 		</td>
 	</tr>
