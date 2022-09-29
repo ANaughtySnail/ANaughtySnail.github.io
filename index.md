@@ -98,7 +98,7 @@ Relocalization is a critical component of robotics applications, it poses challe
 
 
 ## 项目&实习
-2022/05-至今（OPPO实习）   
+2022/05-2022/08（OPPO实习）   
 项目名称：融合定位与3D环境重建（雷达点云、SLAM、C++/python）       
 项目介绍：利用雷达、IMU和相机等多类传感器实现定位与建图.单目和鱼眼相机内参标定，相机和雷达的外参标定；构建激光点云的全局描述子，利用点云的全局描述子实现点云场景重识别、回环检测和地图更新检测。   
 
